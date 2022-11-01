@@ -1,5 +1,8 @@
 # VCPlayerBot
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/VCPlayerBot)
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/subinps/VCPlayerBot?color=blue&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/subinps/VCPlayerBot)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/subinps/VCPlayerBot)
