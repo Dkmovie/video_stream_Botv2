@@ -503,7 +503,7 @@ async def not_chat(_, m: Message):
             [
                 InlineKeyboardButton('⚡️Make Own Bot', url='https://github.com/Dkmovie/video_stream_Botv2'),
                 InlineKeyboardButton('🧩 Join Here', url='https://t.me/DK_Gru'),
-                InlineKeyboardButton('🧩 Join GROUP', url='https://t.me/DK_Area'),
+                InlineKeyboardButton('🧩 Join CHANNEL', url='https://t.me/DK_Area'),
             ]
             ]
         await m.reply("<b>You can't use this bot in this group, for that you have to make your own bot from the [SOURCE CODE](https://github.com/Dkmovie/video_stream_Botv2) below.</b>", disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(buttons))
