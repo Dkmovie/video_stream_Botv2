@@ -1,4 +1,6 @@
-# VCPlayerBot
+# Video_stream_Bot
+
+## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/VCPlayerBot)
 
@@ -55,9 +57,6 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 
 
-## Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=c3ViaW5wcy9WQ1BsYXllckJvdCBtYWlu)
 
 ## Deploy to Railway
 <p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
@@ -90,23 +89,4 @@ python3 main.py
 - Play from telegram file supported.
 - Starts Radio after if no songs in playlist.
 - Automatic restart even if heroku restarts. (Configurable)
-- Support exporting and importing playlist.
-
-### Note
-
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
-
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
-Fork the repo and edit as per your needs.
-
-## LICENSE
-
-- [GNU General Public License](./LICENSE)
-
-
-## CREDITS
-
-- [Laky-64](https://github.com/Laky-64) for [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-
-
+- Support exporting 
