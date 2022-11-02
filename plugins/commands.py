@@ -129,8 +129,8 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton('🔥 Channel🔥', url='https://t.me/DK_Gru'),
-            InlineKeyboardButton('☎️CONTACT☎️', url='https://t.me/R_KOHLI'),
+            InlineKeyboardButton('🔥 JOIN CHANNEL 🔥', url='https://t.me/DK_Gru'),
+            InlineKeyboardButton('☎️ CONTACT ☎️', url='https://t.me/R_KOHLI'),
             InlineKeyboardButton('🧩 Source', url='https://github.com/Dkmovie/video_stream_Botv2')
         ],
         [
@@ -191,7 +191,7 @@ async def repo_(client, message):
         [
             InlineKeyboardButton('🧩 Repository', url='https://github.com/Dkmovie/video_stream_Botv2'),
             InlineKeyboardButton('🔥 JOIN CHANNEL🔥', url='https://t.me/DK_Gru'),
-            InlineKeyboardButton('☎️ CONTACT☎️', url='https://t.me/R_KOHLI'),     
+            InlineKeyboardButton('☎️ CONTACT ☎️', url='https://t.me/R_KOHLI'),     
         ],
         [
             InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
